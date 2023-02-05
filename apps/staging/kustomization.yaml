@@ -5,6 +5,7 @@ resources:
 - ../all/cert-manager
 - ../all/external-dns
 - ../all/ingress-nginx
+- ../all/system-upgrade-controller
 
 #patchesStrategicMerge:
 #- cert-manager/wildcard-certificate.yaml
