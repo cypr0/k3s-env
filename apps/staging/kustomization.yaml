@@ -5,5 +5,5 @@ resources:
 - ../all/cert-manager
 - ../all/external-dns
 
-patchesStrategicMerge:
-- cert-manager/wildcard-certificate.yaml
+#patchesStrategicMerge:
+#- cert-manager/wildcard-certificate.yaml
